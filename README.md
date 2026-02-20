@@ -17,15 +17,15 @@ Ask me about Linux, Python scripting, DNS or anything tech related!
 ### Languages and Tools:
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanwoodburn&show_icons=true&theme=dark&locale=en&layout=donut&hide=html,css,javascript" alt="nathanwoodburn" /></p>
+<p><img src="https://x4ws0w4kw0k00okkskscgsw0.c.woodburn.au/api/top-langs?username=nathanwoodburn&show_icons=true&theme=dark&locale=en&layout=donut&hide=html,css,javascript" alt="nathanwoodburn" /></p>
 
 
 ### GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nathanwoodburn&show_icons=true&theme=dark&locale=en" alt="nathanwoodburn" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanwoodburn&theme=dark" alt="nathanwoodburn" /></p>
+<p><img align="left" src="https://x4ws0w4kw0k00okkskscgsw0.c.woodburn.au/api?username=nathanwoodburn&show_icons=true&theme=dark&locale=en" alt="nathanwoodburn" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanwoodburn&theme=dark" alt="nathanwoodburn" /></p>
 
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=nathanwoodburn&theme=matrix" alt="nathanwoodburn" /></p>
+<p align="left"><img src="https://asgkwww8sw4404kc4gsgo4os.c.woodburn.au/?username=nathanwoodburn&theme=matrix" alt="nathanwoodburn" /></p>
 
 
 # Support Me:
